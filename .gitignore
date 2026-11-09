@@ -1,0 +1,17 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment variables and passwords
+.env
+
+# IDE files
+.vscode/
+
+# Older duplicate files
+CliniflowDashboard.pbix
+my.pbix
+cliniflow_appointments.csv
